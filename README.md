@@ -52,7 +52,7 @@ I am currently not releasing the source code to protect the intellectual propert
    - Search latency on CPU/GPU
 3. I'll send you the results back. 
 
-**Contact:** [Füge hier deine E-Mail oder deinen LinkedIn-Link ein]
+**Contact:** https://www.linkedin.com/in/manuel-s-570277389/
 
 ---
 *Developed with thousands of hours of optimization by a developer who believes efficiency is the ultimate form of sophistication.*
